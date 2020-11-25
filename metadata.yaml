@@ -10,12 +10,17 @@ contributor:
     deathdate: 2006
     gutenberg_agent_id: '52485'
     url: http://www.gutenberg.org/2009/agents/52485
+covers:
+- cover_type: archival
+  image_path: 63707-h/images/cover.jpg
 creator:
   author:
     agent_name: Wesley, Bill
     gutenberg_agent_id: '52560'
     url: http://www.gutenberg.org/2009/agents/52560
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63707#The-Primus-Curse
 gutenberg_issued: '2020-11-10'
 gutenberg_type: Text
 identifiers:
