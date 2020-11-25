@@ -1,0 +1,35 @@
+_repo: The-Primus-Curse_63707
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Eberle, Joseph
+    aliases:
+    - Eberle, J. R.
+    - Eberle, Joseph R.
+    birthdate: 1926
+    deathdate: 2006
+    gutenberg_agent_id: '52485'
+    url: http://www.gutenberg.org/2009/agents/52485
+creator:
+  author:
+    agent_name: Wesley, Bill
+    gutenberg_agent_id: '52560'
+    url: http://www.gutenberg.org/2009/agents/52560
+description: ''
+gutenberg_issued: '2020-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63707'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Mystery fiction'
+- !lcsh 'Mercury (Planet) -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- GITenberg
+title: The Primus Curse
+url: http://www.gutenberg.org/ebooks/63707
